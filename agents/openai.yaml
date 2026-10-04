@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律知识库生产"
+  short_description: "从一门法律搭建知识库，按教学、实务、考试等目的组织关联知识与成果"
+  default_prompt: "使用 $legal-knowledge-base，为我想学习的法律领域在 Obsidian 建立知识库，先搭学科导航，再按我的使用目的连接知识卡片、成果与反馈。"
